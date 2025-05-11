@@ -28,7 +28,7 @@ npm i
 npm run dev
 ```
 
-Le projet sera accessible à l'adresse : http://loaclhost:3000
+Le projet sera accessible à l'adresse : http://localhost:3000
 
 ---
 
