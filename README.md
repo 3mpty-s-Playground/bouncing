@@ -1,7 +1,7 @@
 # 💥 BOUNCING — Matter.js avec Next.js
 
 Ce projet est une démonstration simple de l'utilisation de [Matter.js](https://brm.io/matter-js/) (un moteur physique JavaScript 2D) dans une application Next.js.  
-Il fait partie des démos créées pour mes vidéos TikTok éducatives sur le code.
+Il fait partie des démos créées pour mes vidéos TikTok sur le développement web.
 
 ![preview](./public/bouncing.png)
 
